@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SaveShare</string>
+    <string name="films">FILMS</string>
+    <string name="favourite">FAVOURITES</string>
+    <string name="like">LIKE</string>
+    <string name="share">SHARE</string>
+    <string name="remove">REMOVE</string>
+</resources>
